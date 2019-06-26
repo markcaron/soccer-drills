@@ -31,7 +31,6 @@ Therefore, it's necessary to ensure we're using the same format: Markdown with Y
 | setup/`players:` | Number of balls | nested object | `min:` and `max:` (numbers) |
 | setup/`area:` | Area of play required | nested object | `min:` and `max:` (strings, e.g. `10 x 10` as measured in yards |
 | `desc:`  | Description of drill | string | _Any_           |
-| `author:` | Author credit | nested object | `name:` and `email:` (strings) |
 
 **Example:**
 
@@ -67,9 +66,6 @@ setup:
     min: 10 x 10
     max: 20 x 20
 desc: Simple passing warm-up for all ages that combines passing, communication, dribbling, turning & receiving, and finding open teammates.
-author:
-  name: Mark Caron
-  email: mark.caron@gmail.com
 ---
 ```
 

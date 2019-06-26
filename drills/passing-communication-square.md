@@ -29,9 +29,6 @@ setup:
     min: 10 x 10
     max: 20 x 20
 desc: Simple passing warm-up for all ages that combines passing, communication, dribbling, turning & receiving, and finding open teammates.
-author:
-  name: Mark Caron
-  email: mark.caron@gmail.com
 ---
 
 # Passing & Communication Square

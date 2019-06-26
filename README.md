@@ -21,7 +21,7 @@ Therefore, it's necessary to ensure we're using the same format: Markdown with Y
 | `title:`  | Name of drill  | string     | _Any_           |
 | `type:`   | Type of drill  | string     | `Warm-up`, `Tactical`, `Technical`, `Physical` |
 | `ages:`   | Age range      | string     | `All`, `U6`, `U7`, etc., or range like `U6-U8`   |
-| `level:`  | Level of skill | string     | `All`, `Initial` (U6–U8), `Basic` (U9-U12), `Intermediate` (U13 & U14), `Advanced` (U15–U18), `Professional` |
+| `level:`  | Level of skill | string     | `All`,<br>`Initial` (U6–U8),<br>`Basic` (U9-U12),<br>`Intermediate` (U13 & U14),<br>`Advanced` (U15–U18),<br>`Professional` |
 | `skills:` | Skills taught  | list of categories | _See skills category list below_  |
 | `setup:`  | Drill steup    | nested object | `duration:`, `cones:`, `pinnies:`, `balls:`, `players:`, `area:`  |
 | setup/`duration:` | Time in minutes | time duration | _Any_ (for example: `5`) |

@@ -4,7 +4,7 @@ Collecting and open sourcing soccer drills (particularly one's I've found useful
 
 ## Usage
 
-Anyone is free to use these drills and practice plans provided they adhere to the (https://creativecommons.org/licenses/by-sa/4.0/)[Attribution-ShareAlike 4.0 International] (CC BY-SA 4.0) license associated with this repository.
+Anyone is free to use these drills and practice plans provided they adhere to the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0) license associated with this repository.
 
 Perhaps at some point an application could be developed (within this repo or elsewhere) to consume these drills.
 
@@ -12,26 +12,26 @@ Perhaps at some point an application could be developed (within this repo or els
 
 I'd love for other coaches to contribute to this repository of drills.
 
-Therefore, it's necessary to ensure we're using the same format: Markdown with YAML front matter (as a schema). If you're not familiar with either, they're super [https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/)[easy to learn] and human readable.
+Therefore, it's necessary to ensure we're using the same format: Markdown with YAML front matter (as a schema). If you're not familiar with either, they're super [easy to learn](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) and human readable.
 
 ### YAML Schema
 
 | Property | Meaning        | Value Type | Possible Values |
 | :---     | :---           | :---       | :---            |
-| `title`  | Name of drill  | string     | _Any_           |
-| `type`   | Type of drill  | string     | `Warm-up`, `Tactical`, `Technical`, `Physical` |
-| `ages`   | Age range      | string     | `All`, `U6`, `U7`, etc., or range like `U6-U8`   |
-| `level`  | Level of skill | string     | `All`, `Initial` (U6–U8), `Basic` (U9-U12), `Intermediate` (U13 & U14), `Advanced` (U15–U18), `Professional` |
-| `skills` | Skills taught  | list of categories | _See skills category list below_  |
-| `setup`  | Drill steup    | nested object | `duration:`, `cones:`, `pinnies:`, `balls:`, `players:`, `area:`  |
+| `title:`  | Name of drill  | string     | _Any_           |
+| `type:`   | Type of drill  | string     | `Warm-up`, `Tactical`, `Technical`, `Physical` |
+| `ages:`   | Age range      | string     | `All`, `U6`, `U7`, etc., or range like `U6-U8`   |
+| `level:`  | Level of skill | string     | `All`, `Initial` (U6–U8), `Basic` (U9-U12), `Intermediate` (U13 & U14), `Advanced` (U15–U18), `Professional` |
+| `skills:` | Skills taught  | list of categories | _See skills category list below_  |
+| `setup:`  | Drill steup    | nested object | `duration:`, `cones:`, `pinnies:`, `balls:`, `players:`, `area:`  |
 | setup/`duration:` | Time in minutes | time duration | _Any_ (for example: `5`) |
 | setup/`cones:` | Number of cones | number | _Any_ (for example: `4`) |
 | setup/`pinnies:` | Pinnies required | string | `yes`, `no`, `optional` |
 | setup/`balls:` | Number of balls | nested object | `min:` and `max:` (numbers) |
 | setup/`players:` | Number of balls | nested object | `min:` and `max:` (numbers) |
 | setup/`area:` | Area of play required | nested object | `min:` and `max:` (strings, e.g. `10 x 10` as measured in yards |
-| `desc`  | Description of drill | string | _Any_           |
-| `author` | Author credit | nested object | `name:` and `email:` (strings) |
+| `desc:`  | Description of drill | string | _Any_           |
+| `author:` | Author credit | nested object | `name:` and `email:` (strings) |
 
 **Example:**
 

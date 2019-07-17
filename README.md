@@ -19,13 +19,14 @@ Therefore, it's necessary to ensure we're using the same format: Markdown with Y
 | Property | Meaning        | Value Type | Possible Values |
 | :---     | :---           | :---       | :---            |
 | `title:`  | Name of drill  | string     | _Any_           |
-| `type:`   | Type of drill  | string     | `Warm-up`, `Tactical`, `Technical`, `Physical` |
+| `type:`   | Type of drill  | string     | `Warm-up`, `Tactical`, `Technical`, `Physical`, `Game` |
 | `ages:`   | Age range      | string     | `All`, `U6`, `U7`, etc., or range like `U6-U8`   |
 | `level:`  | Level of skill | string     | `All`,<br>`Initial` (U6–U8),<br>`Basic` (U9-U12),<br>`Intermediate` (U13 & U14),<br>`Advanced` (U15–U18),<br>`Professional` |
 | `skills:` | Skills taught  | list of categories | _See skills category list below_  |
 | `setup:`  | Drill steup    | nested object | `duration:`, `cones:`, `pinnies:`, `balls:`, `players:`, `area:`  |
 | setup/`duration:` | Time in minutes | time duration | _Any_ (for example: `5`) |
 | setup/`cones:` | Number of cones | number | _Any_ (for example: `4`) |
+| setup/`goals:` | Number of goals | number | _Any_ (for example: `1`) |
 | setup/`pinnies:` | Pinnies required | string | `yes`, `no`, `optional` |
 | setup/`balls:` | Number of balls | nested object | `min:` and `max:` (numbers) |
 | setup/`players:` | Number of balls | nested object | `min:` and `max:` (numbers) |
@@ -84,3 +85,10 @@ The current skills categories used in the YAML schema are as follows:
 - providing support
 - conditioning
 - ice breaker
+- goalkeeping
+- goalkeeping conditioning
+- goalkeeping reflexes
+- goalkeeping diving
+- goalkeeping basics
+- goalkeeping situational
+- goalkeeping distribution

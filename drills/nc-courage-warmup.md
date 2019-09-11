@@ -60,7 +60,7 @@ The players first in line at cones A and D start with a ball each.
 
 ## How to Play
 
-![NC Courage Warmup diagram showing pattern of passing described below](https://github.com/markcaron/soccer-drills/tree/master/drills/assets/NCCourageWarmup.png)
+![NC Courage Warmup diagram showing pattern of passing described below](https://raw.githubusercontent.com/markcaron/soccer-drills/master/drills/assets/NCCourageWarmup.png)
 
 On the coach's whistle/command:
 

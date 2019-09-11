@@ -84,6 +84,7 @@ The current skills categories used in the YAML schema are as follows:
 - identifying space
 - providing support
 - conditioning
+- strength building
 - ice breaker
 - goalkeeping
 - goalkeeping conditioning

@@ -2,7 +2,7 @@
 title: NC Courage Warmup
 type: Warm-up
 ages: U12+
-level: Intermediate
+level: Intermediate, Advanced, Professional
 skills:
   - passing
   - communication

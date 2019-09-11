@@ -74,17 +74,16 @@ desc: Simple passing warm-up for all ages that combines passing, communication, 
 
 The current skills categories used in the YAML schema are as follows:
 
-- passing
-- communication
-- dribbling
+- awareness
+  - change of direction
+  - identifying space
+  - providing support
 - ball control
-- receiving
-- turning
-- change of direction
-- identifying space
-- providing support
+  - receiving
+  - turning
+- communication
 - conditioning
-- strength building
+- dribbling
 - ice breaker
 - goalkeeping
   - goalkeeping conditioning
@@ -93,3 +92,5 @@ The current skills categories used in the YAML schema are as follows:
   - goalkeeping basics
   - goalkeeping situational
   - goalkeeping distribution
+- passing
+- strength building

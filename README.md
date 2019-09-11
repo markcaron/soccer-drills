@@ -87,9 +87,9 @@ The current skills categories used in the YAML schema are as follows:
 - strength building
 - ice breaker
 - goalkeeping
-- goalkeeping conditioning
-- goalkeeping reflexes
-- goalkeeping diving
-- goalkeeping basics
-- goalkeeping situational
-- goalkeeping distribution
+  - goalkeeping conditioning
+  - goalkeeping reflexes
+  - goalkeeping diving
+  - goalkeeping basics
+  - goalkeeping situational
+  - goalkeeping distribution

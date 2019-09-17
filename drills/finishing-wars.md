@@ -61,7 +61,7 @@ Evenly distribute soccer balls between goals (inside the goal). You may need or 
 
 You'll need 2 goalkeepers, one protecting each goal. Divide up your remaining players into teams of 4-5. If you have more players, you can sub them in/out or make a third team (if you have enough) that challenges the winner. You'll want at least 1 or 2 forwards or attack-minded players on each team.
 
-Give one of the team pinnies.
+Give one team pinnies.
 
 The players will line up with 3 defenders in their defensive zone, and one striker in their offensive zone (if you have 5 to a team, you can have 2 strikers). This will make it 3 v 1 (or 3 v 2) in each zone.
 

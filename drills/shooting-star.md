@@ -30,7 +30,7 @@ desc: A fun shooting drill that focuses on receiving a pass, turning and finishi
 
 ## Purpose
 
-A fun shooting drill that focuses on receiving a pass, turning and finishing on goal as quickly as possible in a tight space. Plus, your goalkeepers will get a workout too!
+A fun shooting drill that focuses on receiving a pass, turning and finishing on goal as quickly as possible in a tight space.
 
 This is one of my U10 team's favorite shooting drills. It keeps everyone's attention, and gives everyone a chance to get a lot of quick shots on goal.
 

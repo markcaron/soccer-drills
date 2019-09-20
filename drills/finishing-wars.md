@@ -81,14 +81,14 @@ The players will line up with 3 defenders in their defensive zone, and one strik
 
 The objective is to score as many goals as possible. Players cannot cross the halfway line/markers. They must stay in their zone.
 
-If you have a 3rd team, you can play to 5 or 6 before rotating.
+If you have a 3rd team, you can play to 5 or 6 points before rotating.
 
 Goal values are as follows:
 
 - 1 point - Goal scored within the offensive zone.
 - 2 points - Goal scored from defensive zone (long distance shot)
 - 3 points - Goal scored from a lay-off (passed into the striker who lays it off for the long distance shot)
-- 3 points (optional) - Amazing combination play, like a give-go/wall pass that frees up the striker in the box
+- 3 points (optional) - Amazing combination play, like a give-go/wall pass that frees up the striker in the box or a goal off of a cross.
 
 Once a goal is scored, the goalkeeper who got scored on can restart as quickly as possible by distributing to whomever he/she wants (roll, throw, pass-in, etc.). Goalkeepers can shoot, but they cannot punt/drop-kick to score.
 

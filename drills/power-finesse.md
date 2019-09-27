@@ -48,7 +48,7 @@ Collect as many soccer balls as you can, and place them just to the outside of o
 
 ## Players
 
-With a goalkeeper in goal, divide the rest of your players up into two teams (as evenly as possible), and have them take there positions in a line behind one of the cones (marked with an "X" and an "O" in the diagram below).
+With a goalkeeper in goal, divide the rest of your players up into two teams (as evenly as possible), and have them take their positions in a line behind one of the cones (marked with an "X" and an "O" in the diagram below).
 
 The coach or an assisntant coach will be incharge of distributing balls beside the post (marked "C" below).
 
@@ -65,16 +65,16 @@ The coach or an assisntant coach will be incharge of distributing balls beside t
 
 ## How to Play
 
-Decide which team goes first—flip a coin, pick a number, etc. __(Let's say it's team X)__
+Decide which team goes first—flip a coin, pick a number, etc. _(Let's say it's team X)_
 
-To begin, the coach will call out the name of the player at the front of the line for the team __X__, as a check if they're "ready". Then the coach will roll one ball firmly (with some pace) to the top of the box as the player runs forward to take a shot with __power__. The player must shoot with one touch! Shortly after the first ball is rolled, the coach will roll out a second ball between the 6 yard box and the penalty spot (shouldn't be too firm). The player will continue his/her run after the first shot in order to finish (with __finesse__) the second ball (as if a rebound).
+To begin, the coach will call out the name of the player at the front of the line for the team _X_, as a check if they're "ready". Then the coach will roll one ball firmly (with some pace) to the top of the box as the player runs forward to take a shot with _power_. The player must shoot with one touch! Shortly after the first ball is rolled, the coach will roll out a second ball between the 6 yard box and the penalty spot (shouldn't be too firm). The player will continue his/her run after the first shot in order to finish (with _finesse_) the second ball (as if a rebound).
 
 It's important that the players take only one touch for both of their shots.
 
-*Game rules*
+__Game rules__
 - If a player misses both shots, he/she is eliminated (and will go behind the goal to help shag missed shots).
 - If a player makes only one shot, they're still in, and will go to the back of the line.
-- If a player makes *both* shots, they get to "bonus" challenge any opponent to make both as well.
+- If a player makes _both_ shots, they get to "bonus" challenge any opponent to make both as well.
   - When a player is challenged, it is a "bonus" chance to knockout an opponent.
   - The challenged player must make both shots. If they miss any, they're out.
   - If team X scored both and issued the challenge to team O, team O will be next up regardless of the results of the challenge (it's a "bonus" challenge).

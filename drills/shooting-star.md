@@ -1,6 +1,6 @@
 ---
 title: Shooting Star
-type: Game
+type: Technical
 ages: U9+
 level: Basic, Intermediate, Advanced
 skills:

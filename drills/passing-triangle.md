@@ -64,18 +64,13 @@ C .           . A   X X
 
 The ball begins with the player at the front of the line (player A in the diagram below). Moving counter-clockwise, the ball is passed outside the triangle to player B at the next cone. Player A follows her pass to the next cone. Meanwhile, player B receives, moves around the cone in 1-2 touches, and makes a pass to player C—following her pass as well. Player C does the same, and passes to the next player in line (marked with X X in the diagram below). The passing/movement works its way around the triangle (passing and following their pass).
 
-```
-        B
-        .
-
-
-
-C .           . o A   X X
-```
+![Passing Triangle](https://raw.githubusercontent.com/markcaron/soccer-drills/master/drills/assets/Passing-Triangle.png)
 
 ### Combination Passing Progression (optional)
 
 An optional progression would be to add a realistic "wall passing" combination, where player A in the diagram above makes a pass to player B (like normal), and as player A follows his/her pass, player B one-touch passes it back to player A (midway through his/her run). Player A, then one-touch passes the ball at an angle through the corner of triangle to player B who makes a run in the direction of player C. Once player B receives the ball, he/she passes to player C. Player C one-touches it back to player B, and player B one-touch passes the ball at an angle through that corner of the triangle for player C making a run. This combination continues at each cone around the triangle.
+
+![Passing Triangle's with combination passing progression](https://raw.githubusercontent.com/markcaron/soccer-drills/master/drills/assets/Passing-Triangle-Combo.png)
 
 ## Duration
 

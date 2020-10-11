@@ -87,6 +87,7 @@ Have the passing continue counter-clockwise for 5 minutes, then stop the play an
 - Use all sides of your foot (inside, outside, instep) to trap, turn and pass.
 - Once they get the drill, encourage them to pass, move and follow their pass at game speed.
 - Players on around the triangle should remain on the balls of their feet and ready to play / provide support.
+- In the combination passing progression, sometimes play needs to move wider than the triangle as players mess up a touch and need their support player to shift or move wider. Encourage the players to be flexible with their shape (the triangle is just a guide).
 - The cones are defenders. No one should be standing **on** the cone.
 
 ## Progressions

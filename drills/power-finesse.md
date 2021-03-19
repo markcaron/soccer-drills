@@ -1,5 +1,6 @@
 ---
 title: Power, Finesse
+author: Unknown
 type: Game
 ages: U9+
 level: Basic, Intermediate, Advanced

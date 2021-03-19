@@ -1,5 +1,6 @@
 ---
 title: Passing & Communication Square
+author: Mark Caron
 type: Warm-up
 ages: All
 level: All

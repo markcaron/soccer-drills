@@ -1,5 +1,6 @@
 ---
 title: NC Courage Warmup
+author: NC Courage
 type: Warm-up
 ages: U12+
 level: Intermediate, Advanced, Professional

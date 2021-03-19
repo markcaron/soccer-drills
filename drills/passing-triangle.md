@@ -1,5 +1,6 @@
 ---
 title: Passing Triangle
+author: Mark Caron
 type: Technical
 ages: U11+
 level: All

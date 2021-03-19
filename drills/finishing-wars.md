@@ -1,5 +1,6 @@
 ---
 title: Finishing Wars
+author: Mark Caron
 type: Game
 ages: U12+
 level: Intermediate, Advanced, Professional

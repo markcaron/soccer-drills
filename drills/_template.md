@@ -1,5 +1,6 @@
 ---
 title: Drill_Name
+author: Unknown
 type: Warm-up, Tactical, Technical, Physical, or Game
 ages: All or U6-U18
 level: All, Initial, Basic, Intermediate, Advanced, or Professional
@@ -50,11 +51,12 @@ desc:
 ## --------------------------------------------------------------------------
 
 1. Change Drill_Name to the title of your drill in the YAML above
-2. Edit the rest of the YAML above, like `type`, `ages`, `setup`, etc.
+2. Edit the author. If the drill is common knowledge use "Unknown"
+3. Edit the rest of the YAML above, like `type`, `ages`, `setup`, etc.
   - Note: we've provided all the options for each, so you just have to prune any that don't apply
-3. Change the main heading # Drill_Name to the title of your drill
-4. Add / remove other headings and sections as needed.
-5. Remove this comment block
+4. Change the main heading # Drill_Name to the title of your drill
+5. Add / remove other headings and sections as needed.
+6. Remove this comment block
 
 -->
 

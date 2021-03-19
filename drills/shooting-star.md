@@ -1,5 +1,6 @@
 ---
 title: Shooting Star
+author: Unknown
 type: Technical
 ages: U9+
 level: Basic, Intermediate, Advanced

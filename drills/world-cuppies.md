@@ -1,5 +1,6 @@
 ---
 title: World Cuppies
+author: Unknown
 type: Game
 ages: All
 level: All

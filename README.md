@@ -24,7 +24,8 @@ Use the `_template.md` in `/drills/` to start you off on the right (or left) foo
 
 | Property | Meaning        | Value Type | Possible Values |
 | :---     | :---           | :---       | :---            |
-| `title:`  | Name of drill  | string     | _Any_           |
+| `title:`  | Name of drill  | string     | _Any_          |
+| `author:` | Author/creator | string     | _Any_          |
 | `type:`   | Type of drill  | string     | `Warm-up`, `Tactical`, `Technical`, `Physical`, `Game` |
 | `ages:`   | Age range      | string     | `All`, `U6`, `U7`, etc., or range like `U6-U8`   |
 | `level:`  | Level of skill | string     | `All`,<br>`Initial` (U6–U8),<br>`Basic` (U9-U12),<br>`Intermediate` (U13 & U14),<br>`Advanced` (U15–U18),<br>`Professional` |
@@ -44,6 +45,7 @@ Use the `_template.md` in `/drills/` to start you off on the right (or left) foo
 ```yaml
 ---
 title: Passing & Communication Square
+author: Name of Author
 type: Warm-up
 ages: All
 level: All

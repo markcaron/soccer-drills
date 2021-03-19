@@ -77,10 +77,10 @@ Run the drill for about 10-15 minutes. It may take a while before players get th
 ### Advanced or older teams
 
 - More than 7 players? Try to make 2 circles (~14 players). You can use coaches to make up the difference
-- If you don't have enough for 2 circles try substituting players in/out of the circle, use more than 5 on the outside (though no more than 6-7) with a tigher circle, or use a single circle as part of a circuit (small "keep away")
+- If you don't have enough for 2 circles try substituting players in/out of the circle, use more than 5 on the outside (though no more than 6-7) with a tighter circle, or use a single circle as part of a circuit (small "keep away")
 - Tighten the circle as much as possible to increase speed of play (giving less time to think)
 - Move to two touch or one touch only
-- Award bonus points (or scoring) for splitting defenders with a pass or getting [megged](https://en.wikipedia.org/wiki/Nutmeg_(association_football))
+- Award bonus points (or scoring) for splitting defenders with a pass or defenders getting [megged](https://en.wikipedia.org/wiki/Nutmeg_(association_football))
 
 ### Less advanced or younger teams
 
@@ -100,7 +100,7 @@ First, be patient. Very patient. It takes a while for this drill to become truly
 - Pay attention: everyone should pay attention and be ready for a pass
 - Support: encourage players to provide support to their neighbor who receives the ball
 - Support for younger or less advanced players: talk about "flexing" the circle some (obtuse triangles) to make the pass eaiser for their neighbor
-- Think quick: players should think as quickly as possible
+- Think quick: players should think as quickly as possible, and recognize where passing options are available *before* receiving the ball
 - Receiving: players should receive/trap the ball "open" (hips) to where they'd like to make the next pass. Watch for players' touches that keep them closed off and facing the player who just passed them the ball
 - First touch: encourage good first touches that allow for a positive next touch or easy pass
 - Communication: everyone should be communicating on/off the ball

@@ -103,3 +103,7 @@ First, be patient. Very patient. It takes a while for this drill to become truly
 - Receiving: players should receive/trap the ball "open" (hips) to where they'd like to make the next pass. Watch for players' touches that keep them closed off and facing the player who just passed them the ball
 - First touch: encourage good first touches that allow for a positive next touch or easy pass
 - Communication: everyone should be communicating on/off the ball
+
+## Other Rondo Drills
+
+- [Rondo Teams](rondo-teams.md)

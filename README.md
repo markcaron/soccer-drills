@@ -14,6 +14,10 @@ I'd love for other coaches to contribute to this repository of drills.
 
 Therefore, it's necessary to ensure we're using the same format: [Markdown](https://www.markdownguide.org/basic-syntax/) with YAML front matter (as a schema). If you're not familiar with either, they're [easy to learn](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) and human readable.
 
+### Template
+
+Use the `_template.md` in `/drills/` to start you off on the right (or left) foot.
+
 ### YAML Schema
 
 | Property | Meaning        | Value Type | Possible Values |

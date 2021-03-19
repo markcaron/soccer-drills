@@ -42,6 +42,16 @@ Using 4 cones, mark the corners of a playing area that is 20 yards wide by 30 ya
 
 Place all the balls off to the side and the midpoint with the coach.
 
+```
+.                  .
+
+
+.     .      .     .
+
+
+.                  .
+```
+
 ## Players
 
 Divide up your players into 2 even teams of 5 (or 6), and have them move into their respective "halves" of the playing area.
@@ -71,6 +81,18 @@ Run the drill for about 10-15 minutes. It may take a while before players get th
 ### Neutral Zone Option
 
 If you have enough players, you can expand this drill into a slight variant involving neutral zone. Simply expand the 20x30 playing area to a 20x35 playing area (creating a 5 yard neutral zone).
+
+```
+.                  .
+
+
+.     .      .     .
+
+.     .      .     .
+
+
+.                  .
+```
 
 Having a neutral zone offers more difficulty in getting a pass out of pressure through players in the neutral zone (cutting off passing lanes) to their teammates in their half. You can run this option a couple of different ways:
 

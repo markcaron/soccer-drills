@@ -2,6 +2,8 @@
 
 Collecting and open sourcing soccer drills (particularly one's I've found useful) for youth soccer coaches everywhere.
 
+[See the drills](drills)
+
 ## Usage
 
 Anyone is free to use these drills and practice plans provided they adhere to the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0) license associated with this repository.

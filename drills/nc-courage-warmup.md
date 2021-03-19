@@ -33,7 +33,7 @@ desc: NC Courage's dynamic passing warm-up circuit for intermediate to advanced 
 
 An incredibly dynamic passing that combines passing, communication, receiving (one touch and two touch) and running. It may seem complicated at first due to the amount of movement required for each of the players as they make their way around the circuit, but it will make quite a bit of sense once you begin.
 
-Note: This drill was observed and recreated here from watching the NC Courage of the NWSL warmup. They used this drill before every game in their Championship-winning 2018 season, and they've continued to use it throughout their 2019 season as well.
+Note: This drill was observed and recreated here from watching the [NC Courage](https://www.nccourage.com/) of the NWSL warmup. They used this drill before every game in their Championship-winning 2018 season, and they've continued to use it throughout their 2019 season as well.
 
 ## Setup
 

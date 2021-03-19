@@ -12,7 +12,7 @@ Perhaps at some point an application could be developed (within this repo or els
 
 I'd love for other coaches to contribute to this repository of drills.
 
-Therefore, it's necessary to ensure we're using the same format: Markdown with YAML front matter (as a schema). If you're not familiar with either, they're super [easy to learn](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) and human readable.
+Therefore, it's necessary to ensure we're using the same format: [Markdown](https://www.markdownguide.org/basic-syntax/) with YAML front matter (as a schema). If you're not familiar with either, they're [easy to learn](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) and human readable.
 
 ### YAML Schema
 

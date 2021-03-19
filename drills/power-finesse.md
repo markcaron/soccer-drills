@@ -72,7 +72,7 @@ To begin, the coach will call out the name of the player at the front of the lin
 It's important that the players take only one touch for both of their shots.
 
 __Game rules__
-- If a player misses both shots, he/she is eliminated (and will go behind the goal to help shag missed shots).
+- If a player misses both shots, he/she is eliminated (and will go behind the goal to help collect missed shots).
 - If a player makes only one shot, they're still in, and will go to the back of the line.
 - If a player makes _both_ shots, they get to "bonus" challenge any opponent to make both as well.
   - When a player is challenged, it is a "bonus" chance to knockout an opponent.

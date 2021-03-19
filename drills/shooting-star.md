@@ -86,6 +86,10 @@ The goal is to score as many goals as possible with a high tempo. Quick turn. Qu
 
 You can play for 15 to 20 minutes, or until every player has had 2-3 turns as striker.
 
+## Progressions
+
+- Instead of the striker receiving passes in order (1-5), the coach can call out a number at random. This will make the drill more dynamic, fun and develop the striker's situational awareness/attentiveness.
+
 ## Coaching Points
 
 - Checking away from the area first, to make space for receiving and turning
